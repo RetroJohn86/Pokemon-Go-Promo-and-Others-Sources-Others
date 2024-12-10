@@ -30,7 +30,6 @@ All images from websites and the assets files i found and mined are located here
 
 You Can Follow Me and Chat via these Links. [Discord](https://discord.com/invite/XWphsEk), [TwitterX](https://x.com/Retro86Official), [Facebook](https://www.facebook.com/Retro86Official), [Instagram](https://www.instagram.com/retrojohn86), [YouTube](https://www.youtube.com/channel/UCUw02MHKeo3mGfNDMvBn_eQ), [Twitch](https://www.twitch.tv/retrojohn86), [Archive](https://archive.org/details/@retro_john_86), [Reddit](https://www.reddit.com/user/RetroJohn86/) and [BLOG Site](https://retrojohn86.blogspot.com/)
 
-
 ## __**Repositories Links**__
 
 **+** Assets : 
@@ -42,7 +41,7 @@ You Can Follow Me and Chat via these Links. [Discord](https://discord.com/invite
 
 **+** Screenshots : **Coming Soon**
 
-**+** Others : [Retro Infographics and Printables](https://github.com/RetroJohn86/Retro-Infographics-and-Printables) , [RCT Archive](https://github.com/RetroJohn86/RCT-Archive) , [Pokemon Regions Dex](https://github.com/RetroJohn86/Pokemon-Regions-Dex) , [PoGo Custom Graphics](https://github.com/RetroJohn86/Pokemon-Go-Custom-Graphics) , [Pokemon Games Screenshots](https://github.com/RetroJohn86/Pokemon-Games-Screenshots) , [Box Covers](https://github.com/RetroJohn86/Box-Covers) , [Campfire Assets and Screenshots](https://github.com/RetroJohn86/Campfire-Assets-and-Screenshots) , [Box Covers](https://github.com/RetroJohn86/Box-Covers) , [Destiny Wallpapers](https://github.com/RetroJohn86/Destiny-Wallpapers).
+**+** Others : [Retro Infographics and Printables](https://github.com/RetroJohn86/Retro-Infographics-and-Printables) , [RCT Archive](https://github.com/RetroJohn86/RCT-Archive) , [Pokemon Regions Dex](https://github.com/RetroJohn86/Pokemon-Regions-Dex) , [Pokemon Logos Plus More](https://github.com/RetroJohn86/Pokemon-Logos-Plus-More) , [PoGo Custom Graphics](https://github.com/RetroJohn86/Pokemon-Go-Custom-Graphics) , [Pokemon Games Screenshots](https://github.com/RetroJohn86/Pokemon-Games-Screenshots) , [Campfire Assets and Screenshots](https://github.com/RetroJohn86/Campfire-Assets-and-Screenshots) , [Box Covers](https://github.com/RetroJohn86/Box-Covers) , [Destiny Wallpapers](https://github.com/RetroJohn86/Destiny-Wallpapers).
 
 
 __**Thank You and Enjoy**__
